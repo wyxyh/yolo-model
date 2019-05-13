@@ -1,0 +1,66 @@
+//////////////////////////////////默认为红章//////////////////////////
+一、特殊区域：
+TextureStar  底纹五角星
+Star              正常五角星
+# OcrRegion    小码区域
+二、章形状(红章)
+RectangularSeal  矩形章   20
+CircleSeal            圆形章
+EllipseSeal           椭圆章
+TriangleSeal        三角章
+DiamondSeal      菱形章
+YinkeSeal          阴刻章
+BoundlessSeal   无边框章
+三、盖在签字或底纹(默认黑色签字或印字)
+SignTextureStar  底纹五角星
+SignStar              正常五角星
+# SignOcrRegion    小码区域
+
+SignRectangularSeal  矩形章
+SignCircleSeal            圆形章
+SignEllipseSeal           椭圆章
+SignTriangleSeal        三角章
+SignDiamondSeal      菱形章
+SignYinkeSeal          阴刻章
+SignBoundlessSeal   无边框章
+四、盖在签字或底纹(蓝色)
+SignTextureStarB  底纹五角星
+SignStarB              正常五角星
+SignOcrRegionB   小码区域
+
+SignRectangularSealB  矩形章
+SignCircleSealB            圆形章
+SignEllipseSealB           椭圆章
+SignTriangleSealB        三角章
+SignDiamondSealB      菱形章
+SignYinkeSealB          阴刻章
+SignBoundlessSealB   无边框章
+//////////////////////////////////////////红章/////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////
+三、浅章（暂无）
+lightRectangularSeal  矩形章
+lightCircleSeal            圆形章（椭圆章）
+lightEllipseSeal           椭圆章
+lightTriangleSeal        三角章
+lightDiamondSeal      菱形章
+lightBoundlessSeal   无边框章
+lightYinkeSeal          阴刻章
+四、浅章盖在签字或底纹区（暂无）
+五、颜色：
+#RedSeal               红色章
+BlueSeal              蓝色章
+BlackSeal             黑色章
